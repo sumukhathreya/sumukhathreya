@@ -28,7 +28,8 @@ Scripting Languages (TCL) 🐍
 Projects 🚀:
 1. SOS Alert System for Women Safety
 2. Design and Development of a Cost-Effective 3-D Printer
- 
+3. Design and Verification of a 16-bit RISC-V Processor using Verilog
+
 Currently enhancing my skills in Digital VLSI Design and Verification at the K-VLSI training programme conducted by IIIT Bangalore. Excited to apply my knowledge to real-world projects and collaborate with like-minded individuals. 🌟
 Contact Me 📧 sumukhathreya@gmail.com 
 Feel free to reach out for collaborations, project ideas, or just to connect! Let's innovate together. 🚀
